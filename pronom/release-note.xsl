@@ -93,7 +93,7 @@
 					<tr>
 						<td width="2%"></td>
 						<td valign="top">
-							<div id="breadcrumb">You are here: <a href="/" class="breadcrumbs">Home</a> &gt; <a href="/information-management/" class="breadcrumbs">Information management</a> &gt; <a href="/information-management/projects-and-work.htm" class="breadcrumbs">Our projects and work</a> &gt; <a href="/information-management/projects-and-work/digital-preservation.htm" class="breadcrumbs">Digital preservation </a> &gt; <a href="/pronom" class="breadcrumbs">PRONOM</a>  &gt; Release notes  </div>
+							<div id="breadcrumb">You are here: <a href="/" class="breadcrumbs">Home</a> &gt; <a href="/information-management/" class="breadcrumbs">Information management</a> &gt; <a href="/information-management/manage-information/preserving-digital-records/" class="breadcrumbs">Digital preservation </a> &gt; <a href="/pronom" class="breadcrumbs">PRONOM</a>  &gt; Release notes  </div>
 						</td>
 						<td width="2%"></td>
 					</tr>
