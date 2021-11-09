@@ -62,7 +62,7 @@
 	  </format>
 	<format>
 	   <puid type="fmt">1458</puid>
-	   <name>Arts &amp;Letters Graphics File</name>
+	   <name>Arts and Letters Graphics File</name>
 	   <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
 	  </format>
 	<format>
@@ -610,7 +610,7 @@
 	  </format>
 	<format>
 	   <puid type="x-fmt">53</puid>
-	   <name>Macromedia FreeHand (4 & 5)</name>
+	   <name>Macromedia FreeHand (4 and 5)</name>
 	   <summary>Previously Macromedia FreeHand (5). File format description updated, expanded to include version 4 and extension fh4 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
   </format>
 	<format>
@@ -646,7 +646,7 @@
 	<format>
 	   <puid type="x-fmt">304</puid>
 	   <name>Aldus FreeHand Drawing (4)</name>
-	   <summary>File format description updated and priority over x-fmt/53 (Macromedia FreeHand (4 & 5)) applied. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+	   <summary>File format description updated and priority over x-fmt/53 (Macromedia FreeHand (4 and 5)) applied. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
   </format>
 	<format>
 	   <puid type="x-fmt">324</puid>
