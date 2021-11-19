@@ -1,6 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="release-note.xsl"?>
 <release_notes>
+<release_note>
+   <release_date>18th November 2021</release_date>
+   <signature_filename>DROID_SignatureFile_V99.xml</signature_filename>
+   <release_outline name="Updated Records">
+      <format>
+         <puid type="fmt">672</puid>
+         <name>Serif PagePlus Publication 4</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">673</puid>
+         <name>Serif PagePlus Publication 5</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">674</puid>
+         <name>Serif PagePlus Publication 6</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">675</puid>
+         <name>Serif PagePlus Publication 7</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">676</puid>
+         <name>Serif PagePlus Publication 8</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">677</puid>
+         <name>Serif PagePlus Publication 9</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">678</puid>
+         <name>Serif PagePlus Publication 10</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">679</puid>
+         <name>Serif PagePlus Publication 11</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">680</puid>
+         <name>Serif PagePlus Publication 12</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">681</puid>
+         <name>Serif PagePlus Publication Home Office</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">827</puid>
+         <name>Serif DrawPlus Drawing 3</name>
+         <summary>Priority over fmt/1528 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">852</puid>
+         <name>Serif DrawPlus Drawing 4</name>
+         <summary>Priority over fmt/1528 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">853</puid>
+         <name>Serif DrawPlus Drawing 5</name>
+         <summary>Priority over fmt/1528 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1454</puid>
+         <name>Web Video Text Tracks (WebVTT) Format</name>
+         <summary>Max-offset at beginning of file extended. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1495</puid>
+         <name>Quark XPress Project 2021</name>
+         <summary>External signatures qpt, qxp and qwd added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt  ">1529</puid>
+         <name>Serif PagePlus Publication X3</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1530</puid>
+         <name>Serif PagePlus Publication X4</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1531</puid>
+         <name>Serif PagePlus Publication X5</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1532</puid>
+         <name>Serif PagePlus Publication X6</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1533</puid>
+         <name>Serif PagePlus Publication X7</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1534</puid>
+         <name>Serif PagePlus Publication X8</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1535</puid>
+         <name>Serif PagePlus Publication X9</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1536</puid>
+         <name>Serif PagePlus Publication SE</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1537</puid>
+         <name>Serif PagePlus Publication 1-3</name>
+         <summary>Priority over fmt/671 added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+   </release_outline>
+</release_note>
 <release_note> 
     <release_date>27th October 2021</release_date> 
     <signature_filename>DROID_SignatureFile_V98.xml</signature_filename> 
@@ -362,7 +488,7 @@
 	  </format>
 	  <format>
 	   <puid type="fmt">1518</puid>
-	   <name>Serif PhotoPlus 5-X2</name>
+	   <name>Serif PhotoPlus 5-X3</name>
 	   <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
 	  </format>
 	  <format>
@@ -372,7 +498,7 @@
 	  </format>
 	  <format>
 	   <puid type="fmt">1520</puid>
-	   <name>Serif DrawPlus Drawing 6</name>
+	   <name>Serif DrawPlus Drawing 7</name>
 	   <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
 	  </format>
 	  <format>
