@@ -36,6 +36,13 @@ _Files not in repo used/embedded in the content_
  - /images/icons/rtf.gif
  - /images/pixels/pixel_ffffff.gif
  - /images/pixels/pixeltrans.gif
+ - /includes/applogosearch.inc
+ - /includes/footer.inc
+ - /includes/google-analytics-gtm-body.inc
+ - /includes/google-analytics-gtm-head.inc
+ - /includes/hosprectitleabout.inc
+ - /includes/logosearch.inc
+ - /includes/menu.inc
  - /mypage/STS/personalisation.js
  - /nelson/images/arrows/nav_arrowdownpale_on.gif
  - /nelson/images/arrows/nav_arrowrightpale_off.gif
