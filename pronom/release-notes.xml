@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="http://www.nationalarchives.gov.uk/aboutapps/pronom/release-note.xsl"?>
+<?xml-stylesheet type="text/xsl" href="release-note.xsl"?>
 <release_notes>
 <release_note>
 	<release_date>15th February 2022</release_date>
