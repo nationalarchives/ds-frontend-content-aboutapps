@@ -1,6 +1,407 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="release-note.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nationalarchives.gov.uk/aboutapps/pronom/release-note.xsl"?>
 <release_notes>
+<release_note>
+	<release_date>11th March 2022</release_date>
+	<signature_filename>DROID_SignatureFile_V104.xml</signature_filename>
+	<release_outline name="Updated Records">
+		<format>
+         <puid type="fmt">1629</puid>
+         <name>Adobe InDesign Document (1.5)</name>
+         <summary>Corrected relationships by adding priority over Adobe InDesign Document 1.0 and removing priority over Adobe InDesign Document 1.0. Submitted by Digital Preservation Department, The National Archives.</summary>
+		</format>
+	</relese_outline>
+</release_note>
+<release_note>
+   <release_date>10th March 2022</release_date>
+   <signature_filename>DROID_SignatureFile_V103.xml</signature_filename>
+   <release_outline name="New Records">
+      <format>
+         <puid type="fmt">1620</puid>
+         <name>Aero Studio Song</name>
+         <summary>Full entry added. Submitted by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1621</puid>
+         <name>AHX-Module Format (formerly THX Module Format)</name>
+         <summary>Full entry added. Submitted by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1622</puid>
+         <name>Asylum Music Format</name>
+         <summary>Full entry added. Submitted by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1623</puid>
+         <name>Art Of Noise - 4 Channel Module</name>
+         <summary>Full entry added. Submitted by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1624</puid>
+         <name>Art Of Noise - 8 Channel Module</name>
+         <summary>Full entry added. Submitted by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1625</puid>
+         <name>ESRI Colour File Format</name>
+         <summary>Extension-only entry added. Submitted by The National Library of Australia.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1626</puid>
+         <name>MicroStation Symbology Resource File</name>
+         <summary>Full entry added. Submitted by The Canadian Centre for Architecture.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1627</puid>
+         <name>Z Print Build File</name>
+         <summary>Full entry added. Submitted by The Canadian Centre for Architecture.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1628</puid>
+         <name>Adobe InDesign Document 1.0</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1629</puid>
+         <name>Adobe InDesign Document 1.5</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1630</puid>
+         <name>Adobe InDesign Document 2.0</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1631</puid>
+         <name>Adobe InDesign Document CS5.5</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1632</puid>
+         <name>Adobe InDesign Document CC</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1633</puid>
+         <name>Adobe InDesign Document CC 2014</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1634</puid>
+         <name>Adobe InDesign Document CC 2015</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1635</puid>
+         <name>Adobe InDesign Document CC 2017</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1636</puid>
+         <name>Adobe InDesign Document CC 2018</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1637</puid>
+         <name>Adobe InDesign Document CC 2019</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1638</puid>
+         <name>Adobe InDesign Document CC 2020</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1639</puid>
+         <name>Adobe InDesign Document CC 2021</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1640</puid>
+         <name>Adobe InDesign Document CC 2022</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1641</puid>
+         <name>Adobe InDesign Interchange Document</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1642</puid>
+         <name>Adobe InDesign Library 2</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1643</puid>
+         <name>Lenel Network Video Recorder File</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1644</puid>
+         <name>Roxio Label Creator Project File v4-5</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1645</puid>
+         <name>Roxio Label Creator Project File v6-7</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1646</puid>
+         <name>Roxio Label Creator Project File v8-11</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1647</puid>
+         <name>Inspiration Software File</name>
+         <summary>Full entry added. Submitted by National Archives of Australia and State Archives and Records Authority of New South Wales.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1648</puid>
+         <name>Crystal Reports File</name>
+         <summary>Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+   </release_outline>
+   <release_outline name="Updated Records">
+      <format>
+         <puid type="fmt">95</puid>
+         <name>Acrobat PDF/A - Portable Document Format (1a)</name>
+         <summary>Update to signature following error. Removal of whitespace causing issues in FIDO. Submitted by Vanderbilt University, Preservica and Misty De Méo.</summary>
+      </format>
+      <format>
+         <puid type="fmt">123</puid>
+         <name>Encapsulated PostScript File Format</name>
+         <summary>Amended to allow for magic bytes to be Adobe-2 or Adobe-2.0. Submitted by The National Library of Australia.</summary>
+      </format>
+      <format>
+         <puid type="fmt">152</puid>
+         <name>Digital Negative Format (DNG)</name>
+         <summary>Changed maximum offset of 'TIFF header plus DNGVersion tag near EOF' from 4084 to 6000 bytes. Submitted by Digital Repository, Historic Environment Scotland.</summary>
+      </format>
+      <format>
+         <puid type="fmt">196</puid>
+         <name>Adobe InDesign Document CS</name>
+         <summary>Outline description upgraded, note field updated and .indt file extension added . Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">276</puid>
+         <name>Acrobat PDF 1.7 - Portable Document Format</name>
+         <summary>Changed maximum byte offset from 0 to 1 . Submitted by The National Library of Australia.</summary>
+      </format>
+      <format>
+         <puid type="x-fmt">450</puid>
+         <name>Adobe InDesign Document Generic</name>
+         <summary>Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">462</puid>
+         <name>MS-DOS Compression Format (SZDD Variant)</name>
+         <summary>Amended name for consistency, added link and description. Submitted by IS4.</summary>
+      </format>
+      <format>
+         <puid type="fmt">469</puid>
+         <name>MS-DOS Compression Format (KWAJ Variant)</name>
+         <summary>Amended name for consistency, added link. Submitted by IS4.</summary>
+      </format>
+      <format>
+         <puid type="fmt">548</puid>
+         <name>Adobe InDesign Document CS2</name>
+         <summary>Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">549</puid>
+         <name>Adobe InDesign Document CS3</name>
+         <summary>Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">550</puid>
+         <name>Adobe InDesign Document CS4</name>
+         <summary>Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">551</puid>
+         <name>Adobe InDesign Document CS5</name>
+         <summary>Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">552</puid>
+         <name>Adobe InDesign Document CS6</name>
+         <summary>Outline description upgraded, note field updated and .indt file extension added. Relationship changed to 'is subsequent version of' Adobe InDesign Document CS5.5 instead of Adobe InDesign Document CS5. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1184</puid>
+         <name>InDesign Markup Language Package</name>
+         <summary>Note field updated. Submitted by Digital Preservation Department, The National Archives.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1191</puid>
+         <name>Adobe InDesign Book</name>
+         <summary>Note field updated. Submitted by Digital Preservation Department, The National Archives.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1192</puid>
+         <name>Adobe InDesign Library 4</name>
+         <summary>Description, version number, note field and format type updated. Associated signature renamed from 'Adobe InDesign Library' to 'Adobe InDesign Library 4'. Submitted by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1358</puid>
+         <name>MicroStation Base File</name>
+         <summary>Added byte sequence to signature. Added priority over Bentley Microstation Hidden Line File. Submitted by Digital Preservation Department, The National Archives.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1423</puid>
+         <name>HP TRIM Outlook Saved Message File</name>
+         <summary>Added .mbx extension. Updated description . Submitted by National Archives of Australia and State Archives and Records Authority of New South Wales.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1596</puid>
+         <name>ESRI ArcInfo Grid .nit File</name>
+         <summary>Capitalised 'File' in file format name and signature. Amended BOF signature to allow for 02, 04 or 08 at byte 2. Removed EOF signature. Submitted by Digital Preservation Department, The National Archives.</summary>
+      </format>
+   </release_outline>
+   <release_outline name="New Signatures">
+      <format>
+         <puid type="fmt">1620</puid>
+         <name>Aero Studio Song</name>
+         <summary>Signature researched and samples provided by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1621</puid>
+         <name>AHX-Module Format (formerly THX Module Format)</name>
+         <summary>Signature researched and samples provided by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1622</puid>
+         <name>Asylum Music Format</name>
+         <summary>Signature researched and samples provided by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1623</puid>
+         <name>Art Of Noise - 4 Channel Module</name>
+         <summary>Signature researched and samples provided by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1624</puid>
+         <name>Art Of Noise - 8 Channel Module</name>
+         <summary>Signature researched and samples provided by The National Archives and Records Administration.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1626</puid>
+         <name>MicroStation Symbology Resource File</name>
+         <summary>Signature researched and samples provided by The Canadian Centre for Architecture.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1627</puid>
+         <name>Z Print Build File</name>
+         <summary>Signature researched and samples provided by The Canadian Centre for Architecture.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1628</puid>
+         <name>Adobe InDesign Document 1.0</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1629</puid>
+         <name>Adobe InDesign Document 1.5</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1630</puid>
+         <name>Adobe InDesign Document 2.0</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1631</puid>
+         <name>Adobe InDesign Document CS5.5</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1632</puid>
+         <name>Adobe InDesign Document CC</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1633</puid>
+         <name>Adobe InDesign Document CC 2014</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1634</puid>
+         <name>Adobe InDesign Document CC 2015</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1635</puid>
+         <name>Adobe InDesign Document CC 2017</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1636</puid>
+         <name>Adobe InDesign Document CC 2018</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1637</puid>
+         <name>Adobe InDesign Document CC 2019</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1638</puid>
+         <name>Adobe InDesign Document CC 2020</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1639</puid>
+         <name>Adobe InDesign Document CC 2021</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1640</puid>
+         <name>Adobe InDesign Document CC 2022</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1641</puid>
+         <name>Adobe InDesign Interchange Document</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1642</puid>
+         <name>Adobe InDesign Library 2</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1643</puid>
+         <name>Lenel Network Video Recorder File</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1644</puid>
+         <name>Roxio Label Creator Project File v4-5</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1645</puid>
+         <name>Roxio Label Creator Project File v6-7</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1646</puid>
+         <name>Roxio Label Creator Project File v8-11</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1647</puid>
+         <name>Inspiration Software File</name>
+         <summary>Signature researched and samples provided by National Archives of Australia and State Archives and Records Authority of New South Wales.</summary>
+      </format>
+      <format>
+         <puid type="fmt">1648</puid>
+         <name>Crystal Reports File</name>
+         <summary>Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.</summary>
+      </format>
+   </release_outline>
+</release_note>
 <release_note>
 	<release_date>15th February 2022</release_date>
 	<signature_filename>DROID_SignatureFile_V102.xml</signature_filename>
