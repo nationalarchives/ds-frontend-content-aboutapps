@@ -45,22 +45,22 @@
    <signature_filename>DROID_SignatureFile_V105.xml</signature_filename>
    <release_outline name="New Records">
       <format>
-         <puid type="fmt ">1649</puid>
+         <puid type="fmt">1649</puid>
          <name>AGS 4 Data Format</name>
          <summary>Full entry added. Submitted by Association of Geotechnical and Geoenvironmental Specialists, supported by British Geological Survey.</summary>
       </format>
       <format>
-         <puid type="fmt ">1650</puid>
+         <puid type="fmt">1650</puid>
          <name>Bayesian Interchange Format File</name>
          <summary>Extension-only entry added. Submitted by Digital Preservation Department, The National Archives.</summary>
       </format>
       <format>
-         <puid type="fmt ">1651</puid>
+         <puid type="fmt">1651</puid>
          <name>Garmin Flexible and Interoperable Data Transfer file</name>
          <summary>Full entry added. Submitted by Digital Preservation Department, The National Archives.</summary>
       </format>
       <format>
-         <puid type="fmt ">1652</puid>
+         <puid type="fmt">1652</puid>
          <name>Typescript</name>
          <summary>Extension-only entry added. Submitted by Diplomatic Archives / French Ministry for Europe and Foreign Affairs.</summary>
       </format>
@@ -669,12 +669,12 @@
          <summary>Signature researched and samples provided by Digital Preservation Department, The National Archives.</summary>
       </format>
       <format>
-         <puid type="fmt ">1649</puid>
+         <puid type="fmt">1649</puid>
          <name>AGS 4 Data Format</name>
          <summary>Signature researched and samples provided by Association of Geotechnical and Geoenvironmental Specialists, supported by British Geological Survey.</summary>
       </format>
       <format>
-         <puid type="fmt ">1651</puid>
+         <puid type="fmt">1651</puid>
          <name>Garmin Flexible and Interoperable Data Transfer file</name>
          <summary>Signature researched and samples provided by Digital Preservation Department, The National Archives.</summary>
       </format>
