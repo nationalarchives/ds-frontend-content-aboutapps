@@ -1,4 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="release-note.xsl"?>
+<release_notes>
 <release_note>
    <release_date>21st July 2022</release_date>
    <signature_filename>DROID_SignatureFile_V107.xml</signature_filename>
