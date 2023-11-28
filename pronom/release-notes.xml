@@ -643,11 +643,6 @@
          <name>CATIA Model 4</name>
          <summary>Max-offset modified for the BOF signature to allow for more exact signature identification. Submitted by Digital Preservation Department, The National Archives.</summary>
       </format>
-      <format>
-         <puid type=""/>
-         <name/>
-         <summary>. Submitted by .</summary>
-      </format>
    </release_outline>
    <release_outline name="New Signatures">
       <format>
@@ -4282,7 +4277,7 @@
       </format>
       <format>
          <puid type="x-fmt">436</puid>
-         <name>CATIA Model v.4</name>
+         <name>CATIA Model 4</name>
          <summary>Updated description and magic bytes. Submitted by Digital Preservation Department, The National Archives.</summary>
       </format>
       <format>
